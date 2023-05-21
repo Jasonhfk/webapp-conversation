@@ -1,7 +1,7 @@
 import { AppInfo } from "@/types/app"
 export const APP_ID = ''
-export const API_KEY = 'sk-YGKZRvfbJWQuUQwO7kd47kIa9KCOI5yOuezveILH4TCGumer'
-export const API_URL = 'https://exapi-chat.zecoba.cn/v1/chat/completions'
+export const API_KEY = ''
+export const API_URL = ''
 export const APP_INFO: AppInfo = {
   "title": 'Chat APP',
   "description": '',
